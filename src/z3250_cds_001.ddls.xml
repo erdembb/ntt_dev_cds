@@ -4,6 +4,8 @@
   <asx:values>
    <DDLS>
     <DDLNAME>Z3250_CDS_001</DDLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DDTEXT>CDS Eğitimi Ödevi</DDTEXT>
     <SOURCE_TYPE>V</SOURCE_TYPE>
    </DDLS>
   </asx:values>
